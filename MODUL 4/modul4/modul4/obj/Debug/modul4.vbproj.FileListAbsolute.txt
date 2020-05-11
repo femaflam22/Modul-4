@@ -1,0 +1,11 @@
+D:\modul 3\MODUL 4\modul4\modul4\bin\Debug\modul4.exe.config
+D:\modul 3\MODUL 4\modul4\modul4\bin\Debug\modul4.exe
+D:\modul 3\MODUL 4\modul4\modul4\bin\Debug\modul4.pdb
+D:\modul 3\MODUL 4\modul4\modul4\bin\Debug\modul4.xml
+D:\modul 3\MODUL 4\modul4\modul4\obj\Debug\modul4.vbprojAssemblyReference.cache
+D:\modul 3\MODUL 4\modul4\modul4\obj\Debug\modul4.Form1.resources
+D:\modul 3\MODUL 4\modul4\modul4\obj\Debug\modul4.Resources.resources
+D:\modul 3\MODUL 4\modul4\modul4\obj\Debug\modul4.vbproj.GenerateResource.cache
+D:\modul 3\MODUL 4\modul4\modul4\obj\Debug\modul4.exe
+D:\modul 3\MODUL 4\modul4\modul4\obj\Debug\modul4.xml
+D:\modul 3\MODUL 4\modul4\modul4\obj\Debug\modul4.pdb
